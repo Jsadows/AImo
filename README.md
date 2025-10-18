@@ -1,2 +1,2 @@
 # AImo
-Repository containing mobile robot sotware
+AI-powered mobile robot software — navigation, control, and perception modules.
